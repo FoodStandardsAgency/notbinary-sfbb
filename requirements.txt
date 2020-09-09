@@ -1,0 +1,6 @@
+Flask
+Flask-SSLify
+Flask-BasicAuth
+markdown
+PyGithub
+gitpython
